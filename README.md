@@ -6,11 +6,11 @@ A personal commitment to implement **1 research paper per month** throughout 202
 Build deeper understanding of machine learning and AI research by implementing foundational and cutting-edge papers from scratch, focusing on core concepts.
 
 ## 2025 Progress
-- [ ] January
+- [x] January - Word2Vec
 - [ ] February  
-- [ ] March
+- [x] March - Transformer (Attention is All You Need)
 - [ ] April
-- [ ] May
+- [x] May - REALM: Retrieval-Augmented Generation
 - [ ] June
 - [ ] July
 - [ ] August
