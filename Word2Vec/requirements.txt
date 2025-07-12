@@ -1,0 +1,42 @@
+# Core dependencies
+numpy>=1.21.0
+torch>=1.10.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine learning and data processing
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional dependencies for advanced features
+# Uncomment if you need these features:
+
+# For GPU acceleration (uncomment if CUDA is available)
+# torch>=1.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+
+# For notebook support
+# jupyter>=1.0.0
+# ipython>=7.0.0
+
+# For additional visualization
+# plotly>=5.0.0
+# bokeh>=2.0.0
+
+# For text processing (if working with raw text)
+# nltk>=3.6.0
+# spacy>=3.0.0
+
+# For performance profiling
+# memory-profiler>=0.60.0
+# psutil>=5.8.0
+
+# For testing (development)
+# pytest>=6.0.0
+# pytest-cov>=2.0.0
+
+# For type checking (development)
+# mypy>=0.910
+# typing-extensions>=3.10.0 
