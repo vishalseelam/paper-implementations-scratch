@@ -385,34 +385,3 @@ Original Papers:
   year={2020}
 }
 ```
-
-## 🐛 Issues & Support
-
-- **Bug Reports**: [GitHub Issues](https://github.com/your-repo/realm-rag/issues)
-- **Feature Requests**: [GitHub Issues](https://github.com/your-repo/realm-rag/issues)
-- **Questions**: [GitHub Discussions](https://github.com/your-repo/realm-rag/discussions)
-- **Documentation**: [Wiki](https://github.com/your-repo/realm-rag/wiki)
-
-## 🔮 Roadmap
-
-### Version 1.1
-- [ ] Multi-language support
-- [ ] Streaming inference
-- [ ] Model compression
-- [ ] Advanced retrieval strategies
-
-### Version 1.2
-- [ ] Graph-based retrieval
-- [ ] Multi-modal support
-- [ ] Federated learning
-- [ ] Cloud deployment
-
-### Version 2.0
-- [ ] Real-time learning
-- [ ] Conversational QA
-- [ ] Domain adaptation
-- [ ] Explanation generation
-
----
-
-**Made with ❤️ by the REALM/RAG community** 
