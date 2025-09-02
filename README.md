@@ -13,7 +13,7 @@ Build deeper understanding of machine learning and AI research by implementing f
 - [x] May - REALM: Retrieval-Augmented Generation
 - [ ] June
 - [ ] July
-- [ ] August
+- [x] August - DDPM (Denoising Diffusion Probabilistic Models)
 - [ ] September
 - [ ] October
 - [ ] November
